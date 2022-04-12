@@ -11,6 +11,6 @@ TJpg_Decoder is used to load a JPG image from LittleFS.  In the example, a 320x3
 
 
 References and credits:
-Bodmer (TFT_eSPI) https://github.com/Bodmer
-lovyan03 (LovyanGFX) https://github.com/lovyan03
-TJpgDec http://elm-chan.org/fsw/tjpgd/00index.html
+-Bodmer (TFT_eSPI) https://github.com/Bodmer
+-lovyan03 (LovyanGFX) https://github.com/lovyan03
+-TJpgDec http://elm-chan.org/fsw/tjpgd/00index.html
