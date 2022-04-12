@@ -64,7 +64,7 @@ void loop()
 
         if (pressed == 11) {  //Button 11
           Serial.println(pressed);
-          drawImage("/111LesAngles.jpg");  
+          drawImage("/myimage.jpg");  // 320x320px
         }
         else if (pressed == 12) {  //Button 12
           Serial.println(pressed);
