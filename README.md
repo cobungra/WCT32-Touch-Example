@@ -7,7 +7,7 @@ Touch functions are interpreted in the loop.
 TJpg_Decoder is used to load a JPG image from LittleFS.  In the example, a 320x320px image needs to be loaded into the sketch data folder.
 
 
-![IMG_4515](https://github.com/cobungra/WCT32-Touch-Example/blob/main/WT32Menu.jpg)
+![IMG_4515](/res/WT32Menu.jpg)
 
 
 References and credits:
