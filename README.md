@@ -1,5 +1,5 @@
 # WT32 Touch Menu and Graphics
-A demo example of cooperating touch recognition, JPG decoding and graphics handling for a WT32-SC01</a> board (https://www.seeedstudio.com/ESP32-Development-board-WT32-SC01-p-4735.html).
+A demo example of cooperating touch recognition, JPG decoding and graphics handling for a [WT32-SC01](https://www.seeedstudio.com/ESP32-Development-board-WT32-SC01-p-4735.html) board .
 
 In this prototype, the screen is considered as having 30 touch buttons that can be drawn and labelled in arrays.
 These can be defined into menus.
