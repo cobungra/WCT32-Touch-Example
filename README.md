@@ -14,3 +14,4 @@ References and credits:
 - Bodmer (TFT_eSPI) https://github.com/Bodmer
 - lovyan03 (LovyanGFX) https://github.com/lovyan03
 - TJpgDec http://elm-chan.org/fsw/tjpgd/00index.html
+- 3D printed case https://sketchfab.com/3d-models/wt32-sc01-case-cfec05638de540b0acccff2091508500
