@@ -47,7 +47,7 @@ void setup(void)
   tft.setFont(FSS12);
   tft.setCursor(0, 0);
   tft.setTextColor(TFT_YELLOW);
-  tft.print("ESP32 WT32 Touch panel");
+  tft.print("ESP32 W32 SC01 Touch panel");
   tft.setCursor(0, 35);
   if (!LittleFS.begin()) {
     Serial.println("LittleFS initialisation failed!");
@@ -63,11 +63,9 @@ void loop()
       Serial.println(pressed);
 
         if (pressed == 11) {  //Button 11
-          Serial.println(pressed);
           drawImage("/myimage.jpg");  // 320x320px
         }
         else if (pressed == 12) {  //Button 12
-          Serial.println(pressed);
             tft.fillRect(0, 0, 320, 320, TFT_BLACK);
             tft.setFont(FSSB18);
             tft.setCursor(10,60);
@@ -78,12 +76,8 @@ void loop()
 }
 
 uint16_t getButton(int x, int y) {
-//pressed=0;
 for (k=0; k<30; k++) {
  if (x > Bx[k] && x < Bx[k]+80 && y > By[k] && y < By[k]+64 ) {  //Buttons
-    Serial.print(Bx[k]);
-    Serial.print("*");
-    Serial.println(By[k]);
   pressed = k+1;
  }
 }
