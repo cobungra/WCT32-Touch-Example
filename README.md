@@ -6,8 +6,7 @@ These can be defined into menus.
 Touch functions are interpreted in the loop.
 TJpg_Decoder is used to load a JPG image from LittleFS.  In the example, a 320x320px image needs to be loaded into the sketch data folder.
 
-
-![IMG_4515](/res/WT32Menu.jpg)
+![WT32Menu](https://user-images.githubusercontent.com/25142892/163530544-c7e3ad25-4935-453f-b895-454499eee3f1.png)
 
 
 References and credits:
