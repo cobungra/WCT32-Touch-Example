@@ -1,11 +1,10 @@
 /*
-    Simple Touch menu, graphics and JPG display sample for WT32-SC01 
-    https://github.com/cobungra
+   Simple Touch menu, graphics and JPG display sample for WT32-SC01 
+   https://github.com/cobungra
     
-    References and credits: 
-    Bodmer (TFT_eSPI) https://github.com/Bodmer
-    lovyan03 (LovyanGFX) https://github.com/lovyan03
-    TJpgDec http://elm-chan.org/fsw/tjpgd/00index.html
+   References and credits: 
+   LovyanGFX https://github.com/lovyan03
+   TJpgDec http://elm-chan.org/fsw/tjpgd/00index.html
 */
 #define LGFX_AUTODETECT     // Autodetect board
 #define LGFX_USE_V1         // set to use new version of library
